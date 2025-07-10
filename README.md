@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Zupi-HR/blog_preview_card)
-- Live Site URL: [Add live site URL here](https://zupi-hr.github.io/blog_preview_card/)
+- Solution URL: [Solution](https://github.com/Zupi-HR/blog_preview_card)
+- Live Site URL: [Live URL](https://zupi-hr.github.io/blog_preview_card/)
 
 ## My process
 
